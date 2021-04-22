@@ -40,6 +40,11 @@ Regarding the technological stack, we'll use the following:
   - MongoDB
   - Amazon API Gateway
   - Amazon ECS
+- Continuous inspection of code quality
+  - Spotbus
+  - JaCoCo
+  - Checkstyle
+  - SonarQube
 
 *This technological stack will be updated as the project moves* 
 
