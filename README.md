@@ -50,4 +50,4 @@ Regarding the technological stack, we'll use the following:
 
 ## Modules
 
-- Provider Management (current development)
+- [Provider Management](https://github.com/restaurant-system/provider-management/tree/feature-provider-management-service) (current development)
