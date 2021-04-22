@@ -11,6 +11,7 @@ In this version, we'll deliver the required components for designing and costing
 
 The following diagram shows a initial blueprint:
 
+![restaurant-system-components-0.0.1](./img/restaurant-system-components-0.0.1.png)
 
 *This diagram will be updated as the project moves*
 
